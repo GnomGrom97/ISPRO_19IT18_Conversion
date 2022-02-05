@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
+        добавить еще 1 сканер
         System.out.print("Введите значение в Мб/мин. - ");
         int megabit = in.nextInt();
         System.out.print("Введите значение в Кб/сек. - ");
